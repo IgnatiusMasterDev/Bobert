@@ -1,6 +1,6 @@
 ---
 name: Fault report
-about: Report a problem with how the robot operates.
+about: Report a problem with how the robot operates
 title: ''
 labels: ''
 assignees: ''
