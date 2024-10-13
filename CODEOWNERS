@@ -13,6 +13,6 @@
 # This should make it easy to add new rules without breaking existing ones.
 
 # Global rule:
-*           @prod/IgnatiusMasterDev @prod/Agent-AA
+*           @IgnatiusMasterDev @Agent-AA
 
 # More rules can be added as team members specialize in particular parts of the code.
